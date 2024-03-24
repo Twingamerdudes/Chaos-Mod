@@ -17,5 +17,6 @@ public:
     UFUNCTION(BlueprintCallable)
     void ForceGC();
     
+    virtual TStatId GetStatId() const override { return GetStatID(); }
 };
 

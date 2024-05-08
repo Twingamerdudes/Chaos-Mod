@@ -61,6 +61,7 @@ public:
     UFUNCTION(BlueprintCallable)
     EMapArea GetCurrentMapArea();
     
+    virtual TStatId GetStatId() const override { return GetStatID(); }
     
     // Fix for true pure virtual functions not being implemented
 };

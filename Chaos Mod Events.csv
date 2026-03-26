@@ -1,6 +1,0 @@
----,Enum,x,Weight,DynamicWeight
-Group0,"Positive Events","2.000000","10.000000","1.000000"
-Group1,"Neutral Events","0.250000","10.000000","0.750000"
-Group2,"Annoying Events","-0.200000","10.000000","0.500000"
-Group3,"Negative Events","-0.750000","10.000000","0.750000"
-Group4,"very Negative Events","-2.000000","10.000000","1.000000"

@@ -1,0 +1,40 @@
+{
+    "originalSdkFolder": "C:\\Audiokinetic\\Wwise2021.1.6.7774\\SDK",
+    "currentVersion": {
+        "nickname": "",
+        "build": 2201,
+        "major": 1,
+        "minor": 6,
+        "year": 2021
+    },
+    "installedBundleGroups": [
+        {
+            "id": "Packages",
+            "valueId": "Unreal"
+        },
+        {
+            "id": "Packages",
+            "valueId": "UnrealStadia"
+        },
+        {
+            "id": "Packages",
+            "valueId": "UnrealPS5"
+        },
+        {
+            "id": "Packages",
+            "valueId": "UnrealXboxSeriesX"
+        },
+        {
+            "id": "Packages",
+            "valueId": "UnrealXboxOneGC"
+        },
+        {
+            "id": "Packages",
+            "valueId": "UnrealWinGC"
+        },
+        {
+            "id": "DeploymentPlatforms",
+            "valueId": "UE427"
+        }
+    ]
+}
